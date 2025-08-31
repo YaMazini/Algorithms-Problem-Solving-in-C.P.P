@@ -123,40 +123,38 @@ Small_Projects/ folders contain interactive applications — run them and follow
 
 Use project code as templates for larger applications.
 
-📁 File Organization (example)
-/
-├── Level1/
-│   ├── Problem 1-10.cpp
-│   ├── Problem 11-20.cpp
-│   ├── Problem 21-30.cpp
-│   ├── Problem 31-40.cpp
-│   └── Problem 41-50.cpp
-│
-├── Level2/
-│   ├── Problem 1-10.cpp
-│   ├── ...
-│   ├── Problem 41-50.cpp
-│   └── Small_Projects/
-│       ├── rock_paper_scissors.cpp
-│       └── simple_math_quiz_game.cpp
-│
-├── Level3/
-│   ├── Problem 1-10.cpp
-│   ├── ...
-│   ├── Problem 41-50.cpp
-│   └── Small_Projects/
-│       ├── Bank.cpp
-│       └── Bank_Extension.cpp
-│
-├── Level4/
-│   ├── Problem 1-10.cpp
-│   ├── ...
-│   ├── Problem 56-65.cpp
-│   └── Small_Projects/
-│       ├── Bank_Extension_2.cpp
-│       └── Simple_ATM_System.cpp
-│
-└── README.md
+📂 File Organization (example)
+```text
+/  
+├── Level1/  
+│   ├── Problem 1-10.cpp  
+│   ├── Problem 11-20.cpp  
+│   ├── Problem 21-30.cpp  
+│   ├── Problem 31-40.cpp  
+│   └── Problem 41-50.cpp  
+├── Level2/  
+│   ├── Problem 1-10.cpp  
+│   ├── ...  
+│   ├── Problem 41-50.cpp  
+│   └── Small_Projects/  
+│       ├── rock_paper_scissors.cpp  
+│       └── simple_math_quizz_game.cpp  
+├── Level3/  
+│   ├── Problem 1-10.cpp  
+│   ├── ...  
+│   ├── Problem 41-50.cpp  
+│   └── Small_Projects/  
+│       ├── Bank.cpp  
+│       └── Bank_Extension.cpp  
+├── Level4/  
+│   ├── Problem 1-10.cpp  
+│   ├── ...  
+│   ├── Problem 56-65.cpp  
+│   └── Small_Projects/  
+│       ├── Bank_Extension_2.cpp  
+│       └── Simple_ATM_System.cpp  
+└── README.md  
+```
 
 
 Each Problem X-Y.cpp above is illustrative for ranges; actual files are Problem[level]_[number].cpp (e.g., Problem2_1.cpp ... Problem2_50.cpp). Small_Projects/ contains the projects for that level.
