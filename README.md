@@ -371,7 +371,8 @@ Develop systematic problem-solving:
 ### 🎓 **Core Programming**
 - ✅ **C++ Mastery**: From basics to advanced features
 - ✅ **Algorithm Design**: Creating efficient solutions
-- ✅ **Data Structures**: Understanding when and how to use each type
+- ✅ **Divide and Conquer**: Dividing complex problems into smaller, more manageable subproblems that can be solved independently and then combined into a complete solution  
+- ✅ **Data Structures**: Understanding when and how to use each type (Primitive - Container)
 - ✅ **Problem Decomposition**: Breaking complex problems into manageable parts
 
 ### 💼 **Professional Development**  
