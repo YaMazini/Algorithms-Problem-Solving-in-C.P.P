@@ -12,9 +12,9 @@
 ## 🔍 Quick Reference Guide
 | Level | Topic | Problems | Key Concepts | Real Projects |
 |-------|-------|----------|--------------|---------------|
-| 📚 **Level 1** | Fundamentals | 50 | Variables, Enums, Functions/Procedures, Operators, If-Loops & Nested, Primitive Algorithms | - |
-| 🧠 **Level 2** | Algorithms | 50 | Arrays, By Ref/By Val, Struct, Switch Case, Common Algorithms & Problems | 2 Games |
-| 🔤 **Level 3** | Strings & Matrices | 51 | Pointers, Dynamic Memory Allocation, Dynamic Arrays, Vectors, Regular & 3x3 Matrices, String Work | Banking Apps |
+| 📚 **Level 1** | Fundamentals | 50 | Variables, Enums, Functions/Procedures, Operators, If-Loops & Nested..., Primitive Algorithms | - |
+| 🧠 **Level 2** | Algorithms | 50 | Arrays, By Ref/By Val, Struct, Switch Case..., Common Algorithms & Problems | 2 Games |
+| 🔤 **Level 3** | Strings & Matrices | 51 | Pointers, Dynamic Memory Allocation, Dynamic Arrays, Vectors, Regular & 3x3 Matrices..., String Work | Banking Apps |
 | 📅 **Level 4** | Advanced Systems | 65 | Recursion, Huge Date Operations, Debugging Techniques, File I/O | ATM System |
 
 **Total: 216 Problems + 6 Projects**
